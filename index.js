@@ -20,5 +20,5 @@ function canBuildNote(magazine, note) {
       return false;
     }
   }
-  return false;
+  return true;
 }
